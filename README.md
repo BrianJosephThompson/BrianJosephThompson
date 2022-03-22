@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @BrianJosephThompson
-- 👀 I’m interested in learning Ruby and Java and Rust someday  
-- 🌱 I’m currently learning JavaScript, C, and now starting to brush up on Ruby
-- 💞️ I’m looking to collaborate on any project to cut my teeth on
+- 👀 I’m interested in learning Ruby and Java and Rust someday.
+- 🌱 I’m currently learning Java, after getting familiar with JavaScript and C. I would say I am most proficient in Ruby at the moment.
+- 💞️ I'm always looking for a new way to grow and learn, and am open to collaboration on anything, whether I understand it or not. I can learn :)
 - 📫 How to reach me ... via email at brianjosephthompson1@gmail.com
-
-<!---
-BrianJosephThompson/BrianJosephThompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
